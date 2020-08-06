@@ -13,10 +13,15 @@ bash chat.sh
 
 3...public chat
 enter hear 👇
+
 /cannect chat.freendone.net
+
 /nick (your name)
+
 /join #(group name)
+
 /invite (frend name)
+
 /kick (name)   kick out room member
 
 4....tool update

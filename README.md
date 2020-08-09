@@ -1,5 +1,20 @@
 # TermuxChat
-apt update &amp;&amp; apt upgrade
+pleas install termux api
+play story 
+
+https://play.google.com/store/apps/details?id=com.termux.api
+
+OR 
+
+dowenload tool termux app
+
+cheak you memory
+
+install from terminal_apk file in apk
+
+Do this without installing the app
+
+apt update && apt upgrade
 
 pkg install git
 
